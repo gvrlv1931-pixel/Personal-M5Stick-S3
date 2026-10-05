@@ -1,0 +1,8 @@
+# your WiFi name and password stay on your computer
+wifi_secrets.h
+
+# build output
+build/
+*.bin
+*.elf
+.DS_Store
